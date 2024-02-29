@@ -1,0 +1,3 @@
+: How do I find out how much RAM my computer can take?
+: the maximum capacity of RAM will be shown on the screen in kilobytes. Then you can convert kilobytes to gigabytes.
+wmic memphysical get maxcapacity
